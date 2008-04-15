@@ -1,0 +1,4 @@
+penser a :
+
+
+faire un getmetadata avec le num de node et renvoyer type value etc ...
